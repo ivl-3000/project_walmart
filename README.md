@@ -32,5 +32,7 @@ Key Insights
 •	The model can be further improved by exploring advanced machine learning techniques like Random Forest or Gradient Boosting. Actionable Insights:
 •	Implementing a rolling average for sales can help in identifying trends and making informed inventory decisions.
 •	Regularly updating the predictive model with new sales data can enhance accuracy and responsiveness to market changes.
+
+
 Conclusion
 •	Through this project, we have developed a comprehensive approach to optimize inventory management for Walmart, leveraging data analysis and machine learning techniques. The insights gained can significantly enhance operational efficiency and drive better decision-making.
